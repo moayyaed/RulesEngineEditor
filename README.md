@@ -111,6 +111,8 @@ Any/all of the following menu buttons can explicitly disabled:
 `NewWorkflows, DownloadWorkflows, ImportWorkflows, AddWorkflow, NewInputs, DownloadInputs, ImportInputs, AddInput`  
 See [DemoEF](https://raw.githubusercontent.com/alexreich/RulesEngineEditor/main/demo/RulesEngineEditorServer/Pages/DemoEF.razor) for example usage.
 
+Now supporting Chinese
+
 ## What's Next
 * More UI Updates - large field data (rule name, success, expression) autosize?
 * Pretty JSON Expression Handling - Prism Live?
